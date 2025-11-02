@@ -1,4 +1,4 @@
-# Hi, I'm Lumoma! 👋
+# Hi, I'm Lukas! 👋
 
 ## 💫 About Me:
 I’m currently studying Virtual Reality and Game Development at SRH University Heidelberg.  <br>    This year I was on an exchange semester at Boise State University, where I studied GIMM (Games, Interactive Media, and Mobile). At the moment, I am writing my bachelor thesis about Unity DOTS for VR Simulations at the KIT (Karlsruher Institute of Technology). <br><br> I’m looking to collaborate on beginner-friendly Open Source Projects.  <br><br> I’m looking for help with improving my skills in XR development and exploring networking, audio in games, and mobile development.  <br><br> I’m currently diving into advanced Unity development for XR projects.  <br><br> Ask me about developing VR/AR projects for devices like the Meta Quest or HoloLens 2, as well as creating projects in Unity and Unreal Engine.  <br><br> Fun fact: I’m passionate about tech! Before diving into game development, I trained as an electrician specializing in automation technology.  <br>
