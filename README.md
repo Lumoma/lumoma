@@ -18,7 +18,7 @@ Here are some of the projects I’ve contributed to:
 - [**Goblin Quest**](https://polyknights.itch.io/goblin-quest)  
   A game made entirely in Unreal Engine using Blueprints, where you play as a knight battling goblins in a TBS fight.
 
-- [**DigTL-VR**](https://www.iosb.fraunhofer.de/de/projekte-produkte/digitaler-lagetisch-virtuelle-realitaet.html)
+- [**DigTL-VR (Fraunhofer Institute - IOSB)**](https://www.iosb.fraunhofer.de/de/projekte-produkte/digitaler-lagetisch-virtuelle-realitaet.html) <br>
   A project I contributed to as a Working Student. My responsibilities included developing features in Unity and managing version control with Git, advancing my skills to a professional level.
 
 # 💻 Tech Stack:
