@@ -8,7 +8,10 @@ I’m currently studying Virtual Reality and Game Development at SRH University 
 Here are some of the projects I’ve contributed to:  
 
 - [**Deployment Pipeline Pico**](https://drive.google.com/drive/folders/118MHRwqPJNk6U5cnpWSNHE_CajD7ElF8?usp=sharing) (2025) <br>
-  A virtual reality game developed for the Meta Quest 3, showcasing immersive gameplay and advanced physics simulations.  
+  A virtual reality game developed for the Meta Quest 3, showcasing immersive gameplay and advanced physics simulations.
+
+- [**Assistive iOS App**](https://youtu.be/QEqmh-zwH6k) (2025) <br>
+  An assistive P2P tool that uses QR codes to help neurodivergent users communicate specific requests without verbal interaction.
 
 - [**VR Infinity Crane Game**](https://github.com/Lumoma/Infinity-Crane-Unity-6/) (2024, SFX/Music 2025) <br>
   A virtual reality game developed for the Meta Quest 3, showcasing immersive gameplay and advanced physics simulations.
