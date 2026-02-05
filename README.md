@@ -5,10 +5,13 @@ I’m currently studying Virtual Reality and Game Development at SRH University 
 
 
 ## 🚀 Featured Projects  
-Here are some of the projects I’ve contributed to:  
+Here are some of the projects I've contributed to:  
+
+- [**VR-City-DOTS**](https://github.com/Lumoma/VR-City-DOTS) (2026) <br>
+  A low fidelity prototype for testing Unity DOTS in a low poly virtual city for a VR application, developed as part of my bachelor thesis researching high-performance C# for complex urban simulations.
 
 - [**Deployment Pipeline Pico**](https://drive.google.com/drive/folders/118MHRwqPJNk6U5cnpWSNHE_CajD7ElF8?usp=sharing) (2025) <br>
-  A virtual reality game developed for the Meta Quest 3, showcasing immersive gameplay and advanced physics simulations.
+  A beginner-friendly guide demonstrating how to deploy the Unity VR template to the Pico 4 Ultra Enterprise headset.
 
 - [**Assistive iOS App**](https://youtu.be/QEqmh-zwH6k) (2025) <br>
   An assistive P2P tool that uses QR codes to help neurodivergent users communicate specific requests without verbal interaction.
@@ -17,13 +20,19 @@ Here are some of the projects I’ve contributed to:
   A virtual reality game developed for the Meta Quest 3, showcasing immersive gameplay and advanced physics simulations.
 
 - [**DigTL-VR (Fraunhofer Institute - IOSB)**](https://www.iosb.fraunhofer.de/de/projekte-produkte/digitaler-lagetisch-virtuelle-realitaet.html) (2024) <br>
-  A project I contributed to as a Working Student. My responsibilities included developing features in Unity and managing version control with Git,     advancing my skills to a professional level.
+  A project I contributed to as a Working Student. My responsibilities included developing features in Unity and managing version control with Git, advancing my skills to a professional level.
 
 - [**Goblin Quest**](https://polyknights.itch.io/goblin-quest) (2024) <br>
   A game made entirely in Unreal Engine using Blueprints, where you play as a knight battling goblins in a TBS fight.
+
+- [**Procedural 2D Game**](https://github.com/Lumoma/Portfolio_Programmieren_2) (2024) <br>
+  A procedural 2D game written in modern C++ using Raylib, featuring procedural generation, item management, and A* pathfinding to demonstrate OOP, templates, and algorithmic problem-solving.
   
 - [**Cursed Forest**](https://one-production.itch.io/cursed-forest) (2023-2024) <br>
   A 2D platformer created with Unity, where you play as Quinn and strive to rescue a forest from overgrowth.  
+
+- [**Native Android AR App**](https://github.com/Lumoma/androidARapp) (2023) <br>
+  A native Android app with database integration and CatAPI, built with Kotlin and Java.
 
 - [**The Ghosties**](https://balardie.itch.io/theghosties) (2023) <br>
   A game developed with Raylib in C++, where an anonymous hero frees a haunted mansion from ghosts.  
