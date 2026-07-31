@@ -1,11 +1,41 @@
 # Hi, I'm Lukas! 👋
 
-## 💫 About Me:
-I’m currently studying Virtual Reality and Game Development at SRH University Heidelberg.  <br>    Last year I was on an exchange semester at Boise State University, where I studied GIMM (Games, Interactive Media, and Mobile). Currently working on my bachelor thesis at the KIT (Karlsruhe Institute of Technology), researching High-Performance C# using Unity DOTS (Data-Oriented Technology Stack) for complex urban simulations.  <br><br> I’m looking for help with improving my skills in XR development and exploring networking, audio, and mobile development.  <br><br> I’m currently diving into advanced Unity development for XR projects and advanced C# & .NET Ecosystems. <br><br> Ask me about developing VR/AR projects for devices like the Meta Quest or HoloLens 2, as well as creating projects in Unity and Unreal Engine.  <br><br> Fun fact: I’m passionate about tech! Before diving into sofware development, I trained as an electrician specializing in automation technology.  <br>
+## XR Lab Engineer
 
+I work at the Virtual Dimension Center (VDC) Fellbach, where I support the evaluation, testing, and transfer of XR technologies into industrial applications. My work focuses on validating immersive systems, building demonstrators, and assessing XR solutions for real-world use cases.
+
+I recently completed my bachelor's thesis in collaboration with the Karlsruhe Institute of Technology (KIT), researching high-performance C# and Unity DOTS for complex urban simulations.
+
+Previously, I studied Virtual Reality and Game Development at SRH University Heidelberg and spent a semester abroad at Boise State University, specializing in Games, Interactive Media, and Mobile technologies.
+
+---
+
+## 🔬 Current Focus
+
+- XR laboratory infrastructure and testing
+- WebXR and Unity validation
+- AR, VR, and Mixed Reality applications
+- Immersive technologies for industrial use cases
+- XR hardware evaluation and benchmarking
+- Technology transfer for small and medium-sized enterprises
+
+---
+
+## 📌 Areas of Interest
+
+- XR testing and benchmarking
+- Human-computer interaction
+- Spatial computing
+- Industrial XR workflows
+- Performance optimization
+- Compliance and validation
+
+---
 
 ## 🚀 Featured Projects  
 Here are some of the projects I've contributed to:  
+
+### Professional & Research
 
 - [**VR-City-DOTS**](https://github.com/Lumoma/VR-City-DOTS) (2026) <br>
   A low fidelity prototype for testing Unity DOTS in a low poly virtual city for a VR application, developed as part of my bachelor thesis researching high-performance C# for complex urban simulations.
@@ -16,11 +46,14 @@ Here are some of the projects I've contributed to:
 - [**Assistive iOS App**](https://youtu.be/QEqmh-zwH6k) (2025) <br>
   An assistive P2P tool that uses QR codes to help neurodivergent users communicate specific requests without verbal interaction.
 
-- [**VR Infinity Crane Game**](https://github.com/Lumoma/Infinity-Crane-Unity-6/) (2024, SFX/Music 2025) <br>
-  A virtual reality game developed for the Meta Quest 3, showcasing immersive gameplay and advanced physics simulations.
-
 - [**DigTL-VR (Fraunhofer Institute - IOSB)**](https://www.iosb.fraunhofer.de/de/projekte-produkte/digitaler-lagetisch-virtuelle-realitaet.html) (2024) <br>
   A project I contributed to as a Working Student. My responsibilities included developing features in Unity and managing version control with Git, advancing my skills to a professional level.
+
+
+### 📚 Legacy Projects
+
+- [**VR Infinity Crane Game**](https://github.com/Lumoma/Infinity-Crane-Unity-6/) (2024, SFX/Music 2025) <br>
+  A virtual reality game developed for the Meta Quest 3, showcasing immersive gameplay and advanced physics simulations.
 
 - [**Goblin Quest**](https://polyknights.itch.io/goblin-quest) (2024) <br>
   A game made entirely in Unreal Engine using Blueprints, where you play as a knight battling goblins in a TBS fight.
@@ -37,9 +70,44 @@ Here are some of the projects I've contributed to:
 - [**The Ghosties**](https://balardie.itch.io/theghosties) (2023) <br>
   A game developed with Raylib in C++, where an anonymous hero frees a haunted mansion from ghosts.  
 
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+## ⚡ Background
+
+Before entering the XR world, I trained as an automation technician. This background helps me bridge industrial requirements and immersive technologies.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### XR & Development
+
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![OpenXR](https://img.shields.io/badge/OpenXR-5C2D91?style=for-the-badge)
+![WebXR](https://img.shields.io/badge/WebXR-00599C?style=for-the-badge)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
+![Pico](https://img.shields.io/badge/Pico-0052CC?style=for-the-badge)
+
+### Programming
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+### XR Devices
+
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![HoloLens 2](https://img.shields.io/badge/HoloLens%202-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Pico 4 Ultra](https://img.shields.io/badge/Pico%204%20Ultra-0052CC?style=for-the-badge)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lumoma&icon=0&color=0)](https://visitcount.itsvg.in)
